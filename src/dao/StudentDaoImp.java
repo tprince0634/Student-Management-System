@@ -8,7 +8,6 @@ import static Util.DatabaseConnection.getConnection;
 
 
 public class StudentDaoImp implements  StudentDao {
-
     static StudentDaoImp studentDaoImp = new StudentDaoImp();
 
     @Override
